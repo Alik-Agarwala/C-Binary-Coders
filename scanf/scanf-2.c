@@ -6,7 +6,7 @@ int main()
 
     printf("Enter values for a and b: ");
 
-    scanf("%d%d", &a, &b);
+    scanf("%d%d", &a, &b); // taking multiple inputs
 
     printf("%d, %d", a, b);
 
