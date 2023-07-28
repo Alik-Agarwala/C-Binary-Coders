@@ -3,7 +3,7 @@ int main()
 {
     int x = 5;
 
-    printf("%d", x);
+    printf("The value of x is %d", x);
 
     return 0;
 }
