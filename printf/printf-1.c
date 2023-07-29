@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main()
 {
     int x = 5; // a variable of integer type have been created and assigned a value 5
