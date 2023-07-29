@@ -6,7 +6,7 @@ int main()
 {
     int a = 2, b = 10;
 
-    if (a > b)
+    if (a > b) // false
     {
         printf("a is larger");
     }
