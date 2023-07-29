@@ -44,27 +44,6 @@ We encourage contributions to this repository. If you come across any issues or 
             <br />
             <sub><b>Avik Agarwala</b></sub>
         </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Arghadeeps07">
-            <img src="https://avatars.githubusercontent.com/u/112500013?v=4" width="100;" alt="Arghadeeps07"/>
-            <br />
-            <sub><b>ARGHADEEP SARKAR</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/SohomGhosh10">
-            <img src="https://avatars.githubusercontent.com/u/136338690?v=4" width="100;" alt="SohomGhosh10"/>
-            <br />
-            <sub><b>Sohom Ghosh</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Sreejita67">
-            <img src="https://avatars.githubusercontent.com/u/140645821?v=4" width="100;" alt="Sreejita67"/>
-            <br />
-            <sub><b>Sreejita Deb</b></sub>
-        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
