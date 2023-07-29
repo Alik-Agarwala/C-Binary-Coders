@@ -7,5 +7,6 @@ int main()
     while (x <= 10)
         printf("Hello %d\n", x++);
 
+    // x++;
     return 0;
 }
