@@ -44,6 +44,13 @@ We encourage contributions to this repository. If you come across any issues or 
             <br />
             <sub><b>Avik Agarwala</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Sreejita67">
+            <img src="https://avatars.githubusercontent.com/u/140645821?v=4" width="100;" alt="Sreejita67"/>
+            <br />
+            <sub><b>Sreejita Deb</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
