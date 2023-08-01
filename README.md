@@ -67,13 +67,20 @@ We encourage contributions to this repository. If you come across any issues or 
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/BanerjeeRajdeep">
+            <img src="https://avatars.githubusercontent.com/u/111561385?v=4" width="100;" alt="BanerjeeRajdeep"/>
+            <br />
+            <sub><b>Rajdeep Banerjee</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/saswatiray55">
             <img src="https://avatars.githubusercontent.com/u/140442136?v=4" width="100;" alt="saswatiray55"/>
             <br />
             <sub><b>Saswati Ray</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Sreejita67">
             <img src="https://avatars.githubusercontent.com/u/140645821?v=4" width="100;" alt="Sreejita67"/>
