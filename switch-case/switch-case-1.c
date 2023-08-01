@@ -5,7 +5,7 @@ int main()
     int marks;
     scanf("%d", &marks);
 
-    switch (marks)
+    switch (marks) // comparing the value as cases
     {
     case 10:
         printf("Fail\n");
