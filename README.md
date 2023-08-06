@@ -60,20 +60,27 @@ We encourage contributions to this repository. If you come across any issues or 
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Poulami-sinha2004">
+            <img src="https://avatars.githubusercontent.com/u/140739895?v=4" width="100;" alt="Poulami-sinha2004"/>
+            <br />
+            <sub><b>Poulami Sinha</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Priyam123dutta">
             <img src="https://avatars.githubusercontent.com/u/113710032?v=4" width="100;" alt="Priyam123dutta"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/BanerjeeRajdeep">
             <img src="https://avatars.githubusercontent.com/u/111561385?v=4" width="100;" alt="BanerjeeRajdeep"/>
             <br />
             <sub><b>Rajdeep Banerjee</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/saswatiray55">
             <img src="https://avatars.githubusercontent.com/u/140442136?v=4" width="100;" alt="saswatiray55"/>
